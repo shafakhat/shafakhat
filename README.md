@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafakhat
 - 👀 I’m interested in Chalk & Code
-- 🌱 I’m currently learning AI & ML Concepts and Techniques
+- 🌱 I’m currently working on AI & ML Concepts and Techniques
 - 💞️ I’m looking to collaborate on any project related to AI & ML 
 - 📫 You can reach me on my emial ID (shafakhat91@gmail.com).
 
