@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shafakhat
+- 👋 Hi, I’m @Shafakhatullah Khan Mohammed
 - 👀 I’m interested in Chalk & Code
 - 🌱 I’m currently working on AI & ML Concepts and Techniques
 - 💞️ I’m looking to collaborate on any project related to AI & ML 
