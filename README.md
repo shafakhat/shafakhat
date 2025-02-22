@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chalk & Code
 - 🌱 I’m currently working on AI & ML Concepts and Techniques
 - 💞️ I’m looking to collaborate on any project related to AI & ML 
-- 📫 You can reach me on my emial ID (shafakhat91@gmail.com).
+- 📫 You can reach me on my email ID (shafakhat91@gmail.com).
 
 <!---
 shafakhat/shafakhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
