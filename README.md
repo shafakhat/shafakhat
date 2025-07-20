@@ -1,5 +1,4 @@
-<details>
-<summary><h1 align="center"><a href="http://shafakhat.is-best.next/">Shafakhatullah Khan Mohammed</a></h1></summary>  
+<h1 align="center"><a href="http://shafakhat.is-best.next/">Shafakhatullah Khan Mohammed</a></h1> 
 <h3 align="center"> Academician 👨‍🏫| Researcher 🔍| Developer 💻</h3>  
 
 <p align="center">  
@@ -23,7 +22,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />  
   </a>  
 </p> 
-</details>
 
 <details>
 <summary>🖥️|🛠️ Known Languages & IDEs</summary>
@@ -65,8 +63,8 @@
 ## ✨ Fun Quote  
 
 <p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" height="250" /> 
-</p>  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
+</p>
 
 ---
 
