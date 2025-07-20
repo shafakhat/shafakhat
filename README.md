@@ -6,8 +6,8 @@
 </p>
 
 ##
-
-### 🌐 Connect with Me  
+<details>
+<summary>🌐 Connect with Me </summary>
 <p align="center">  
   <a href="http://shafakhat.is-best.net" target="_blank">  
     <img src="https://img.shields.io/badge/Website-shafakhat.is--best.net-blue?style=for-the-badge&logo=google-chrome" />  
@@ -22,6 +22,9 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />  
   </a>  
 </p> 
+</details>
+
+<hr/>
 
 <details>
 <summary>🖥️|🛠️ Known Languages & IDEs</summary>
@@ -37,6 +40,8 @@
 </p>  
 
 </details>
+
+<hr/>
 
 <details>
 <summary>📊 GitHub Stats</summary>
@@ -54,11 +59,15 @@
 </p>  
 </details>
 
+<hr/>
+
 <details>
   <summary>📈 Activity Graph  </summary>
 
 [![Shafakhat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafakhat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/shafakhat/github-readme-activity-graph)  
 </details>
+
+<hr/>
 
 ## ✨ Fun Quote  
 
