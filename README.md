@@ -65,9 +65,9 @@
 ## ✨ Fun Quote  
 
 <p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" height="250" /> 
 </p>  
 
 ---
 
-💡 *“Code to learn, learn to create, create to inspire!”*  
+<p align="center">  💡 *“Code to learn, learn to create, create to inspire!”*  </p>
