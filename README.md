@@ -1,4 +1,5 @@
-<h1 align="center"><a href="http://shafakhat.is-best.next/">Shafakhatullah Khan Mohammed</a></h1>  
+<details>
+<summary><h1 align="center"><a href="http://shafakhat.is-best.next/">Shafakhatullah Khan Mohammed</a></h1></summary>  
 <h3 align="center"> Academician 👨‍🏫| Researcher 🔍| Developer 💻</h3>  
 
 <p align="center">  
@@ -22,10 +23,10 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />  
   </a>  
 </p> 
+</details>
 
----
-
-## 🖥️|🛠️ Known Languages & IDEs  
+<details>
+<summary>🖥️|🛠️ Known Languages & IDEs</summary>
 
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,javascript,html,css,php,flutter,jquery,git,linux,haskell,mysql,laravel,maven,visualstudio" />  
@@ -37,9 +38,10 @@
   <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,sublime,latex," />  
 </p>  
 
----
+</details>
 
-## 📊 GitHub Stats  
+<details>
+<summary>📊 GitHub Stats</summary>
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=shafakhat&show_icons=true&theme=radical" alt="GitHub Stats" />  
@@ -52,14 +54,13 @@
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafakhat&layout=compact&theme=radical" alt="Top Languages" />  
 </p>  
+</details>
 
----
-
-## 📈 Activity Graph  
+<details>
+  <summary>📈 Activity Graph  </summary>
 
 [![Shafakhat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafakhat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/shafakhat/github-readme-activity-graph)  
-
----
+</details>
 
 ## ✨ Fun Quote  
 
