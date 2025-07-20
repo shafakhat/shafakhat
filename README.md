@@ -1,3 +1,7 @@
+# Shafakhatullah Khan Mohammed
+
+**Academician | Programmer 💻 | Researcher 🔍**
+
 - 👋 Hi, I’m @Shafakhatullah Khan Mohammed
 - 👀 I’m interested in Chalk & Code
 - 🌱 I’m currently working on AI & ML Concepts and Techniques
