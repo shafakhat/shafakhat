@@ -1,4 +1,4 @@
-# <a href="http://www.shafakhat.is-best.net/">Shafakhatullah Khan Mohammed</a>
+# <Center><a href="http://www.shafakhat.is-best.net/">Shafakhatullah Khan Mohammed</a>
 
 **Academician | Programmer 💻 | Researcher 🔍**
 
@@ -12,3 +12,4 @@
 shafakhat/shafakhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</center>
