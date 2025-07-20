@@ -69,12 +69,5 @@
 
 <hr/>
 
-## ✨ Fun Quote  
-
-<p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
-</p>
-
----
 
 <p align="center">  💡 *“Code to learn, learn to create, create to inspire!”*  </p>
