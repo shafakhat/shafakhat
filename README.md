@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://shafakhat.is-best.next/">Shafakhatullah Khan Mohammed</a></h1> 
+<h1 align="center"><a href="http://shafakhat.is-best.net/">Shafakhatullah Khan Mohammed</a></h1> 
 <h3 align="center"> Academician 👨‍🏫| Researcher 🔍| Developer 💻</h3>  
 
 <p align="center">  
